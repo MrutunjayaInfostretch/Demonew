@@ -1,0 +1,3 @@
+open\ Menu = {\"locator\":\"xpath=//*[@class=\\\"_2MXt9f\\\"]\",\"desc\":\"opening the window\"}
+menu.link = {\"locator\":\"xpath=//span[@title='%s']\",\"desc\":\"opening the menu link\"}
+subMenu.link = {\"locator\":\"xpath=//a[text()='%s']\",\"desc\":\"opening the submenuLink\"}
